@@ -14,6 +14,7 @@ awesome-unofficial-deepseek-web collects free online deepseek model.
 | `超算互联网`| ✔  | X | [https://www.scnet.cn](https://www.scnet.cn) |  | 
 | `运河城市算力平台`| ✔  | X | [https://www.yzaicc.com/](https://www.yzaicc.com/) |  |
 | `nvidia`| ✔  | ✔ | [https://build.nvidia.com/deepseek-ai/deepseek-r1](https://build.nvidia.com/deepseek-ai/deepseek-r1) |  |
+| `秘塔AI搜索`| ✔  | X | [https://metaso.cn](https://metaso.cn) |  |
 
 
 <a name="LICENSE"></a>
