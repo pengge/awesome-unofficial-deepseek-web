@@ -16,6 +16,7 @@ awesome-unofficial-deepseek-web collects free online deepseek model.
 | `nvidia`| ✔  | ✔ | [https://build.nvidia.com/deepseek-ai/deepseek-r1](https://build.nvidia.com/deepseek-ai/deepseek-r1) |  |
 | `秘塔AI搜索`| ✔  | X | [https://metaso.cn](https://metaso.cn) |  |
 | `当贝AI`| ✔  | X | [https://ai.dangbei.com/chat](https://ai.dangbei.com/chat) |  |
+| `BaiDu`| ✔  | X | [https://chat.baidu.com](https://chat.baidu.com) |  |
 
 <a name="LICENSE"></a>
 ## 📄 License
